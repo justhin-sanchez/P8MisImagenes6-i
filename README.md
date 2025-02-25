@@ -4,9 +4,6 @@
 
 ![alt text](image.png)
 
-## captura de iconos
-![image](https://github.com/user-attachments/assets/b0106842-4713-4339-be10-0eb35d7f2f2f)
-
 
 ## Getting Started
 
